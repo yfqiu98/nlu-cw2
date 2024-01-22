@@ -1,15 +1,15 @@
-NLU+ Coursework 2 (2023 Spring)
+NLU+ Coursework 2 (2024 Spring)
 ---
-##### Yao Fu and Frank Keller and Alexandra Birch-Mayne
+##### Yifu Qiu, Shay Cohen and Alexandra Birch-Mayne
 
-###### Prior versions from Tom Sherborne Mirella Lapata, Denis Emelin, Jon Mallinson, Ida Szubert and Rico Sennrich 
+###### Prior versions from Yao Fu, Frank Keller, Tom Sherborne, Mirella Lapata, Denis Emelin, Jon Mallinson, Ida Szubert and Rico Sennrich 
 
 ---
-This repository contains the data and materials for the second coursework of NLU+ 2023 Spring.
+This repository contains the data and materials for the second coursework of NLU+ 2024 Spring.
 
 To get started, clone the repository:
 ```bash
-git clone https://github.com/FranxYao/nlu-cw2
+git clone https://github.com/yfqiu-nlp/nlu-cw2
 ```
 
 Then follow the instruction from the Course Work 2 handout.
