@@ -9,7 +9,7 @@ This repository contains the data and materials for the second coursework of NLU
 
 To get started, clone the repository:
 ```bash
-git clone https://github.com/yfqiu-nlp/nlu-cw2
+git clone https://github.com/yfqiu98/nlu-cw2
 ```
 
 Then follow the instruction from the Course Work 2 handout.
